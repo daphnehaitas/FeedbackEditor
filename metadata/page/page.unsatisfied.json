@@ -1,0 +1,34 @@
+{
+  "_id": "page.unsatisfied",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.unsatisfied--textarea.input_auto__2",
+      "_type": "textarea",
+      "disabled": true,
+      "label": "Why you are not satisfied using the Editor to build a form?",
+      "name": "input_auto__2",
+      "show": true,
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "sectionHeading": "Form Builder Editor",
+  "show": {
+    "conditionsType": "exactly",
+    "exactly": [
+      {
+        "identifier": "input_auto__1",
+        "operator": "is",
+        "value": "unsatisfied"
+      },
+      {
+        "identifier": "input_auto__1",
+        "operator": "is",
+        "value": "veryunsatisfied"
+      }
+    ]
+  },
+  "url": "unsatisfied"
+}

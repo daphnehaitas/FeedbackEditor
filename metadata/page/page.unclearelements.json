@@ -1,0 +1,34 @@
+{
+  "_id": "page.unclearelements",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.unclearelements--radios.input_auto__5",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.unclearelements--radios.input_auto__5--radio.Yes",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "_id": "page.unclearelements--radios.input_auto__5--radio.No",
+          "_type": "radio",
+          "label": "No",
+          "value": "No"
+        },
+        {
+          "_id": "page.unclearelements--radios.input_auto__5--radio.I-am-not-sure",
+          "_type": "radio",
+          "label": "I am not sure",
+          "value": "Notsure"
+        }
+      ],
+      "legend": "Were there any unclear elements in the Editor?",
+      "name": "input_auto__5"
+    }
+  ],
+  "sectionHeading": "Form Builder Editor",
+  "url": "unclearelements"
+}

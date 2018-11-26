@@ -1,0 +1,46 @@
+{
+  "_id": "page.navigation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.navigation--radios.input_auto__13",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.navigation--radios.input_auto__13--radio.Very-difficult",
+          "_type": "radio",
+          "label": "Very easy",
+          "value": "Verydifficult"
+        },
+        {
+          "_id": "page.navigation--radios.input_auto__13--radio.Difficult",
+          "_type": "radio",
+          "label": "Easy",
+          "value": "Difficult"
+        },
+        {
+          "_id": "page.navigation--radios.input_auto__13--radio.Moderate",
+          "_type": "radio",
+          "label": "Neutral",
+          "value": "Moderate"
+        },
+        {
+          "_id": "page.navigation--radios.input_auto__13--radio.Easy",
+          "_type": "radio",
+          "label": "Difficult",
+          "value": "Easy"
+        },
+        {
+          "_id": "page.navigation--radios.input_auto__13--radio.Veryeasy",
+          "_type": "radio",
+          "label": "Very difficult",
+          "value": "Veryeasy"
+        }
+      ],
+      "legend": "How easy or difficult was it to navigate the Editor to build a form?",
+      "name": "input_auto__13"
+    }
+  ],
+  "sectionHeading": "Form Builder Editor",
+  "url": "navigation"
+}

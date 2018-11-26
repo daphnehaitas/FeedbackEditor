@@ -1,0 +1,46 @@
+{
+  "_id": "page.recommend",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.recommend--radios.input_auto__20",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.recommend--radios.input_auto__20--radio.Very-likely",
+          "_type": "radio",
+          "label": "Very likely",
+          "value": "Verylikely"
+        },
+        {
+          "_id": "page.recommend--radios.input_auto__20--radio.likely",
+          "_type": "radio",
+          "label": "Likely",
+          "value": "likely"
+        },
+        {
+          "_id": "page.recommend--radios.input_auto__20--radio.neutral",
+          "_type": "radio",
+          "label": "Neutral",
+          "value": "neutral"
+        },
+        {
+          "_id": "page.recommend--radios.input_auto__20--radio.Not-likely",
+          "_type": "radio",
+          "label": "Not likely",
+          "value": "Notsolikely"
+        },
+        {
+          "_id": "page.recommend--radios.input_auto__20--radio.notatalllikely",
+          "_type": "radio",
+          "label": "Not likely at all",
+          "value": "notatalllikely"
+        }
+      ],
+      "legend": "How likely are you to recommend Form Builder to other colleagues?",
+      "name": "input_auto__20"
+    }
+  ],
+  "sectionHeading": "Form Builder",
+  "url": "recommend"
+}

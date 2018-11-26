@@ -1,0 +1,47 @@
+{
+  "_id": "page.endtoeendeasyofuse",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.endtoeendeasyofuse--radios.input_auto__19",
+      "_type": "radios",
+      "hint": "With end-to-end process we mean the process of building, publishing and defining the destination of the form",
+      "items": [
+        {
+          "_id": "page.endtoeendeasyofuse--radios.input_auto__19--radio.Verydifficult",
+          "_type": "radio",
+          "label": "Very easy",
+          "value": "Verydifficult"
+        },
+        {
+          "_id": "page.endtoeendeasyofuse--radios.input_auto__19--radio.difficult",
+          "_type": "radio",
+          "label": "Easy",
+          "value": "difficult"
+        },
+        {
+          "_id": "page.endtoeendeasyofuse--radios.input_auto__19--radio.neutral",
+          "_type": "radio",
+          "label": "Neutral",
+          "value": "neutral"
+        },
+        {
+          "_id": "page.endtoeendeasyofuse--radios.input_auto__19--radio.Easy",
+          "_type": "radio",
+          "label": "Difficult",
+          "value": "Easy"
+        },
+        {
+          "_id": "page.endtoeendeasyofuse--radios.input_auto__19--radio.Veryeasy",
+          "_type": "radio",
+          "label": "Very difficult",
+          "value": "Veryeasy"
+        }
+      ],
+      "legend": "How easy or difficult did you find the end-to-end process?",
+      "name": "input_auto__19"
+    }
+  ],
+  "sectionHeading": "Form Builder",
+  "url": "endtoeendeasyofuse"
+}

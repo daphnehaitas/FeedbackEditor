@@ -1,0 +1,17 @@
+{
+  "_id": "page.recommendationsPublisher",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.recommendationsPublisher--textarea.input_auto__18",
+      "_type": "textarea",
+      "label": "What recommendations do you have for us to improve the Publisher?",
+      "name": "input_auto__18",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "sectionHeading": "Form Builder Publisher",
+  "url": "recommendationsPublisher"
+}

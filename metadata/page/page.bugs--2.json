@@ -1,0 +1,22 @@
+{
+  "_id": "page.bugs--2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.bugs--2--text.input_auto__9",
+      "_type": "text",
+      "label": "Bug",
+      "name": "input_auto__9",
+      "repeatable": true,
+      "repeatableHeading": "What bugs did you come across while using the Editor?",
+      "repeatableLede": "List below any bug you came across while building the form"
+    }
+  ],
+  "sectionHeading": "Form Builder Editor",
+  "show": {
+    "identifier": "input_auto__8",
+    "operator": "is",
+    "value": "Yes"
+  },
+  "url": "bugs2"
+}

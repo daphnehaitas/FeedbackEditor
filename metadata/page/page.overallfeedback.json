@@ -1,0 +1,46 @@
+{
+  "_id": "page.overallfeedback",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.overallfeedback--radios.input_auto__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.overallfeedback--radios.input_auto__1--radio.verysatisfied",
+          "_type": "radio",
+          "label": "Very satisfied",
+          "value": "verysatisfied"
+        },
+        {
+          "_id": "page.overallfeedback--radios.input_auto__1--radio.satisfied",
+          "_type": "radio",
+          "label": "Satisfied",
+          "value": "satisfied"
+        },
+        {
+          "_id": "page.overallfeedback--radios.input_auto__1--radio.neutral",
+          "_type": "radio",
+          "label": "Neutral",
+          "value": "neutral"
+        },
+        {
+          "_id": "page.overallfeedback--radios.input_auto__1--radio.unsatisfied",
+          "_type": "radio",
+          "label": "Unsatisfied",
+          "value": "unsatisfied"
+        },
+        {
+          "_id": "page.overallfeedback--radios.input_auto__1--radio.veryunsatisfied",
+          "_type": "radio",
+          "label": "Very unsatisfied",
+          "value": "veryunsatisfied"
+        }
+      ],
+      "legend": "Overall, how satisfied are you using the Editor to build a form?",
+      "name": "input_auto__1"
+    }
+  ],
+  "sectionHeading": "Form Builder Editor",
+  "url": "overallfeedback"
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "page.name",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.name--text.input_auto__21",
+      "_type": "text",
+      "label": "Your name",
+      "name": "input_auto__21"
+    },
+    {
+      "_id": "page.name--email.input_auto__22",
+      "_type": "email",
+      "label": "Your email",
+      "name": "input_auto__22"
+    }
+  ],
+  "heading": "Personal details",
+  "sectionHeading": "Your details",
+  "url": "name"
+}

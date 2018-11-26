@@ -1,0 +1,7 @@
+{
+  "_id": "page.thankyou",
+  "_type": "page.confirmation",
+  "heading": "Thank you for your time",
+  "lede": "Your answers have been submitted",
+  "url": "thankyou"
+}

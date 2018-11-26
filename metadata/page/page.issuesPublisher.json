@@ -1,0 +1,22 @@
+{
+  "_id": "page.issuesPublisher",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.issuesPublisher--textarea.input_auto__14",
+      "_type": "textarea",
+      "label": "What issues did you encounter while publishing the form?",
+      "name": "input_auto__14",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "sectionHeading": "Form Builder Publisher",
+  "show": {
+    "identifier": "input_auto__12",
+    "operator": "is",
+    "value": "Yes"
+  },
+  "url": "issuesPublisher"
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "page.difficulyPublisher--2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.difficulyPublisher--2--radios.input_auto__12",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.difficulyPublisher--2--radios.input_auto__12--radio.Yes",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "_id": "page.difficulyPublisher--2--radios.input_auto__12--radio.No",
+          "_type": "radio",
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "legend": "Did you encounter any issues while publishing the form?",
+      "name": "input_auto__12"
+    }
+  ],
+  "sectionHeading": "Form Builder Publisher",
+  "url": "difficulyPublisher2"
+}

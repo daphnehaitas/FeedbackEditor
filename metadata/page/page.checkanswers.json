@@ -1,0 +1,8 @@
+{
+  "_id": "page.checkanswers",
+  "_type": "page.summary",
+  "lede": "You can change any of your answers before submitting",
+  "sendBody": "Click on the button below to submit your answers",
+  "sendHeading": "Now send your feedback",
+  "url": "checkanswers"
+}

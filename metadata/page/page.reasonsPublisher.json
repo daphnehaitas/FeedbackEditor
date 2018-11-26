@@ -1,0 +1,32 @@
+{
+  "_id": "page.reasonsPublisher",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.reasonsPublisher--textarea.input_auto__11",
+      "_type": "textarea",
+      "label": "Why you are not satisfied using the Publisher to deploy a form?",
+      "name": "input_auto__11",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "sectionHeading": "Form Builder Publisher",
+  "show": {
+    "conditionsType": "exactly",
+    "exactly": [
+      {
+        "identifier": "input_auto__10",
+        "operator": "is",
+        "value": "unsatisfied"
+      },
+      {
+        "identifier": "input_auto__10",
+        "operator": "is",
+        "value": "VeryUnsatisfied"
+      }
+    ]
+  },
+  "url": "reasonsPublisher"
+}

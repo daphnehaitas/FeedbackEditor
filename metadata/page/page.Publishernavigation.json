@@ -1,0 +1,46 @@
+{
+  "_id": "page.Publishernavigation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.Publishernavigation--radios.input_auto__17",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.Publishernavigation--radios.input_auto__17--radio.Verydifficult",
+          "_type": "radio",
+          "label": "Very easy",
+          "value": "Verydifficult"
+        },
+        {
+          "_id": "page.Publishernavigation--radios.input_auto__17--radio.difficult",
+          "_type": "radio",
+          "label": "Easy",
+          "value": "difficult"
+        },
+        {
+          "_id": "page.Publishernavigation--radios.input_auto__17--radio.neutral",
+          "_type": "radio",
+          "label": "Neutral",
+          "value": "neutral"
+        },
+        {
+          "_id": "page.Publishernavigation--radios.input_auto__17--radio.Easy",
+          "_type": "radio",
+          "label": "Difficult",
+          "value": "Easy"
+        },
+        {
+          "_id": "page.Publishernavigation--radios.input_auto__17--radio.Veryeasy",
+          "_type": "radio",
+          "label": "Very difficult",
+          "value": "Veryeasy"
+        }
+      ],
+      "legend": "How easy or difficult was it to navigate the Publisher to publish a form?",
+      "name": "input_auto__17"
+    }
+  ],
+  "sectionHeading": "Form Builder Publisher",
+  "url": "Publishernavigation"
+}

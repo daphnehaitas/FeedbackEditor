@@ -1,0 +1,28 @@
+{
+  "_id": "page.bugs",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.bugs--radios.input_auto__8",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.bugs--radios.input_auto__8--radio.Yes",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "_id": "page.bugs--radios.input_auto__8--radio.No",
+          "_type": "radio",
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "legend": "Did you come across any bugs while using the Editor?",
+      "name": "input_auto__8"
+    }
+  ],
+  "sectionHeading": "Form Builder Editor",
+  "url": "bugs"
+}

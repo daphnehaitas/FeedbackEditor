@@ -1,0 +1,17 @@
+{
+  "_id": "page.recommendations",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.recommendations--textarea.input_auto__7",
+      "_type": "textarea",
+      "label": "What recommendations do you have for us to improve the Editor?",
+      "name": "input_auto__7",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "sectionHeading": "Form Builder Editor",
+  "url": "recommendations"
+}

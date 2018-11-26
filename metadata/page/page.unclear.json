@@ -1,0 +1,22 @@
+{
+  "_id": "page.unclear",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.unclear--text.input_auto__6",
+      "_type": "text",
+      "label": "Unclear element",
+      "name": "input_auto__6",
+      "repeatable": true,
+      "repeatableHeading": "Please list any part of the Editor that wasn't clear to you.",
+      "repeatableLede": "List below any elements that were not clear to you in the Editor, e.g. labels, functionality, navigation etc"
+    }
+  ],
+  "sectionHeading": "Form Builder Editor",
+  "show": {
+    "identifier": "input_auto__5",
+    "operator": "is",
+    "value": "Yes"
+  },
+  "url": "unclear"
+}

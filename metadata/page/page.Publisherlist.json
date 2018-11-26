@@ -1,0 +1,22 @@
+{
+  "_id": "page.Publisherlist",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.Publisherlist--text.input_auto__16",
+      "_type": "text",
+      "label": "Unclear element",
+      "name": "input_auto__16",
+      "repeatable": true,
+      "repeatableHeading": "Please list any element of the Publisher that wasn't clear to you",
+      "repeatableLede": "List below any elements that were not clear to you in the Publisher, e.g. labels, functionality, navigation etc"
+    }
+  ],
+  "sectionHeading": "Form Builder Publisher",
+  "show": {
+    "identifier": "input_auto__15",
+    "operator": "is",
+    "value": "Yes"
+  },
+  "url": "Publisherlist"
+}
